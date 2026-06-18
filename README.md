@@ -221,7 +221,7 @@ Desarrollamos soluciones tecnológicas para:
 
 🌐 IOT-IT (próximamente)
 
-💼 LinkedIn (próximamente)
+💼 [LinkedIn](https://www.linkedin.com/in/rene-luna/)
 
 
 *"Transformando ideas en sistemas industriales confiables."*
