@@ -1,16 +1,227 @@
-## Hi there 👋
+<img src="assets/iotit-logo.png" width="250">
+# IOT-IT
 
-<!--
-**renemiguelluna/renemiguelluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Inteligencia Física para la Industria y el Agro
 
-Here are some ideas to get you started:
+### René Miguel Luna
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Founder @ IOT-IT**  
+Embedded Systems Developer • Industrial Automation Specialist • IoT Solutions Architect
+
+*"Designing reliable industrial systems from hardware to cloud."*
+
+
+# Sobre mí
+
+Soy desarrollador de sistemas embebidos y técnico en automatización industrial especializado en el diseño de soluciones industriales, dispositivos IoT, comunicaciones industriales y plataformas Linux embebidas.
+
+Actualmente lidero **IOT-IT**, una startup enfocada en el desarrollo de tecnologías para la industria y el agro, combinando hardware inteligente, firmware, conectividad y análisis de datos.
+
+
+# Áreas de Especialización
+
+### Embedded Systems
+
+- STM32
+
+- ESP32
+
+- RP2040
+
+- Raspberry Pi
+
+- ARM Cortex-M
+
+- Embedded Linux
+
+### Industrial Automation
+
+- Modbus RTU/TCP
+
+- RS485
+
+- MQTT
+
+- CAN Bus
+
+- PLC Integration
+
+- Industrial Networking
+
+### Electronics Design
+
+- PCB Design
+
+- KiCad
+
+- Hardware Prototyping
+
+- Industrial Electronics
+
+- Sensor Integration
+
+- Power Systems
+
+
+# Tecnologías
+
+### Firmware & Software
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMi4yNSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJDIj48dGl0bGU+QzwvdGl0bGU+PGcgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB3aWR0aD0iMzIuMjUiIGhlaWdodD0iMjgiIGZpbGw9IiMwMDU5OWMiLz48L2c+PGcgZmlsbD0iI2ZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsR2VuZXZhLERlamFWdSBTYW5zLHNhbnMtc2VyaWYiIHRleHQtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIGZvbnQtc2l6ZT0iMTAwIj48dGV4dCB0cmFuc2Zvcm09InNjYWxlKC4xKSIgeD0iMTYxLjI1IiB5PSIxNzUiIHRleHRMZW5ndGg9IjgyLjUiIGZvbnQtd2VpZ2h0PSJib2xkIj5DPC90ZXh0PjwvZz48L3N2Zz4= "C")  
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MS43NSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJDKysiPjx0aXRsZT5DKys8L3RpdGxlPjxnIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyI+PHJlY3Qgd2lkdGg9IjUxLjc1IiBoZWlnaHQ9IjI4IiBmaWxsPSIjMDA1OTljIi8+PC9nPjxnIGZpbGw9IiNmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLEdlbmV2YSxEZWphVnUgU2FucyxzYW5zLXNlcmlmIiB0ZXh0LXJlbmRlcmluZz0iZ2VvbWV0cmljUHJlY2lzaW9uIiBmb250LXNpemU9IjEwMCI+PHRleHQgdHJhbnNmb3JtPSJzY2FsZSguMSkiIHg9IjI1OC43NSIgeT0iMTc1IiB0ZXh0TGVuZ3RoPSIyNzcuNSIgZm9udC13ZWlnaHQ9ImJvbGQiPkMrKzwvdGV4dD48L2c+PC9zdmc+ "C++")  
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3Ny41IiBoZWlnaHQ9IjI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlBZVEhPTiI+PHRpdGxlPlBZVEhPTjwvdGl0bGU+PGcgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB3aWR0aD0iNzcuNSIgaGVpZ2h0PSIyOCIgZmlsbD0iIzM3NzZhYiIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSIzODcuNSIgeT0iMTc1IiB0ZXh0TGVuZ3RoPSI1MzUiIGZvbnQtd2VpZ2h0PSJib2xkIj5QWVRIT048L3RleHQ+PC9nPjwvc3ZnPg== "Python")  
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1OSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJEQVJUIj48dGl0bGU+REFSVDwvdGl0bGU+PGcgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB3aWR0aD0iNTkiIGhlaWdodD0iMjgiIGZpbGw9IiMwMTc1YzIiLz48L2c+PGcgZmlsbD0iI2ZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsR2VuZXZhLERlamFWdSBTYW5zLHNhbnMtc2VyaWYiIHRleHQtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIGZvbnQtc2l6ZT0iMTAwIj48dGV4dCB0cmFuc2Zvcm09InNjYWxlKC4xKSIgeD0iMjk1IiB5PSIxNzUiIHRleHRMZW5ndGg9IjM1MCIgZm9udC13ZWlnaHQ9ImJvbGQiPkRBUlQ8L3RleHQ+PC9nPjwvc3ZnPg== "Dart")
+
+### Embedded Platforms
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2Ny4yNSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJTVE0zMiI+PHRpdGxlPlNUTTMyPC90aXRsZT48ZyBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxyZWN0IHdpZHRoPSI2Ny4yNSIgaGVpZ2h0PSIyOCIgZmlsbD0iIzAzMjM0YiIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSIzMzYuMjUiIHk9IjE3NSIgdGV4dExlbmd0aD0iNDMyLjUiIGZvbnQtd2VpZ2h0PSJib2xkIj5TVE0zMjwvdGV4dD48L2c+PC9zdmc+ "STM32")  
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NS4yNSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJFU1AzMiI+PHRpdGxlPkVTUDMyPC90aXRsZT48ZyBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxyZWN0IHdpZHRoPSI2NS4yNSIgaGVpZ2h0PSIyOCIgZmlsbD0iI2U3MzUyYyIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSIzMjYuMjUiIHk9IjE3NSIgdGV4dExlbmd0aD0iNDEyLjUiIGZvbnQtd2VpZ2h0PSJib2xkIj5FU1AzMjwvdGV4dD48L2c+PC9zdmc+ "ESP32")  
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3NC41IiBoZWlnaHQ9IjI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlJQMjA0MCI+PHRpdGxlPlJQMjA0MDwvdGl0bGU+PGcgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB3aWR0aD0iNzQuNSIgaGVpZ2h0PSIyOCIgZmlsbD0iI2EyMjg0NiIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSIzNzIuNSIgeT0iMTc1IiB0ZXh0TGVuZ3RoPSI1MDUiIGZvbnQtd2VpZ2h0PSJib2xkIj5SUDIwNDA8L3RleHQ+PC9nPjwvc3ZnPg== "RP2040")  
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2Ni4yNSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJMSU5VWCI+PHRpdGxlPkxJTlVYPC90aXRsZT48ZyBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxyZWN0IHdpZHRoPSI2Ni4yNSIgaGVpZ2h0PSIyOCIgZmlsbD0iI2ZjYzYyNCIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSIzMzEuMjUiIHk9IjE3NSIgdGV4dExlbmd0aD0iNDIyLjUiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMzMzIj5MSU5VWDwvdGV4dD48L2c+PC9zdmc+ "Linux")
+
+### Industrial & IoT
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MC41IiBoZWlnaHQ9IjI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9Ik1PREJVUyI+PHRpdGxlPk1PREJVUzwvdGl0bGU+PGcgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB3aWR0aD0iODAuNSIgaGVpZ2h0PSIyOCIgZmlsbD0iI2ZmNmIwMCIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSI0MDIuNSIgeT0iMTc1IiB0ZXh0TGVuZ3RoPSI1NjUiIGZvbnQtd2VpZ2h0PSJib2xkIj5NT0RCVVM8L3RleHQ+PC9nPjwvc3ZnPg== "Modbus")  
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MCIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJNUVRUIj48dGl0bGU+TVFUVDwvdGl0bGU+PGcgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB3aWR0aD0iNjAiIGhlaWdodD0iMjgiIGZpbGw9IiNmZjZiMDAiLz48L2c+PGcgZmlsbD0iI2ZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsR2VuZXZhLERlamFWdSBTYW5zLHNhbnMtc2VyaWYiIHRleHQtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIGZvbnQtc2l6ZT0iMTAwIj48dGV4dCB0cmFuc2Zvcm09InNjYWxlKC4xKSIgeD0iMzAwIiB5PSIxNzUiIHRleHRMZW5ndGg9IjM2MCIgZm9udC13ZWlnaHQ9ImJvbGQiPk1RVFQ8L3RleHQ+PC9nPjwvc3ZnPg== "MQTT")  
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2Ni4yNSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJSUzQ4NSI+PHRpdGxlPlJTNDg1PC90aXRsZT48ZyBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxyZWN0IHdpZHRoPSI2Ni4yNSIgaGVpZ2h0PSIyOCIgZmlsbD0iI2ZmNmIwMCIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSIzMzEuMjUiIHk9IjE3NSIgdGV4dExlbmd0aD0iNDIyLjUiIGZvbnQtd2VpZ2h0PSJib2xkIj5SUzQ4NTwvdGV4dD48L2c+PC9zdmc+ "RS485")  
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1OSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJMT1JBIj48dGl0bGU+TE9SQTwvdGl0bGU+PGcgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB3aWR0aD0iNTkiIGhlaWdodD0iMjgiIGZpbGw9IiNmZjZiMDAiLz48L2c+PGcgZmlsbD0iI2ZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsR2VuZXZhLERlamFWdSBTYW5zLHNhbnMtc2VyaWYiIHRleHQtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIGZvbnQtc2l6ZT0iMTAwIj48dGV4dCB0cmFuc2Zvcm09InNjYWxlKC4xKSIgeD0iMjk1IiB5PSIxNzUiIHRleHRMZW5ndGg9IjM1MCIgZm9udC13ZWlnaHQ9ImJvbGQiPkxPUkE8L3RleHQ+PC9nPjwvc3ZnPg== "LoRa")
+
+
+# Proyectos Destacados
+
+## 🚦 CSL Controller
+
+Arquitectura de control semafórico modular inspirada en estándares industriales.
+
+**Características**
+
+- Arquitectura escalable
+
+- Comunicación RS485
+
+- Expansión mediante periféricos inteligentes
+
+- Configuración basada en objetos
+
+- Diseño orientado a mantenimiento
+
+
+## 🌐 IoT Modular Platform
+
+Plataforma de dispositivos IoT industriales basada en Linux Embedded.
+
+**Incluye**
+
+- Telemetría
+
+- Gestión remota
+
+- Actualizaciones OTA
+
+- Arquitectura modular
+
+- Edge Computing
+
+
+## 🌱 Smart Agriculture
+
+Tecnologías para agricultura inteligente y monitoreo remoto.
+
+**Aplicaciones**
+
+- Sensado ambiental
+
+- Control de riego
+
+- Monitoreo de silobolsas
+
+- Redes LoRa
+
+- Automatización rural
+
+
+## 🐧 Soprano-OS
+
+Distribución Linux Embedded para dispositivos industriales.
+
+**Objetivos**
+
+- Control total de la plataforma
+
+- Seguridad
+
+- Modularidad
+
+- Integración industrial
+
+- Gestión remota
+
+
+# Filosofía de Desarrollo
+
+### Hardware First
+
+Los sistemas industriales deben diseñarse considerando primero el entorno físico donde operarán.
+
+### Reliability Matters
+
+La confiabilidad es una característica del diseño, no una consecuencia.
+
+### Documentation Driven
+
+Todo sistema escalable necesita una documentación clara y mantenible.
+
+### Open Architecture
+
+Los sistemas modulares permiten crecer sin reemplazar toda la infraestructura.
+
+
+# Actualmente Explorando
+
+- Industrial IoT
+
+- Edge Computing
+
+- Embedded Linux
+
+- LoRaWAN
+
+- Smart Agriculture
+
+- Smart Infrastructure
+
+- Linux BSP Development
+
+- Industrial Cybersecurity
+
+
+# IOT-IT
+
+### Inteligencia Física para la Industria y el Agro
+
+Desarrollamos soluciones tecnológicas para:
+
+- Industria 4.0
+
+- Agricultura Inteligente
+
+- Telemetría
+
+- Automatización Industrial
+
+- Sistemas Embebidos
+
+- Plataformas IoT
+
+
+### Conectemos
+
+📧 [rene.miguel.luna@gmail.com](mailto:rene.miguel.luna@gmail.com)
+
+🌐 IOT-IT (próximamente)
+
+💼 LinkedIn (próximamente)
+
+
+*"Transformando ideas en sistemas industriales confiables."*
+
