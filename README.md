@@ -1,5 +1,5 @@
 <img src="assets/iotit-logo.png" width="250">
-# IOT-IT
+## IOT-IT
 
 ### Inteligencia Física para la Industria y el Agro
 
